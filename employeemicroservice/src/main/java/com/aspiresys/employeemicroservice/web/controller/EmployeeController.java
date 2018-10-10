@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.aspiresys.employeemicroservice.dto.EmployeeDTO;
-import com.aspiresys.employeemicroservice.dto.EmployeeDTO;
 import com.aspiresys.employeemicroservice.exception.EmployeeNotFoundException;
 import com.aspiresys.employeemicroservice.exception.OperationCannotBeCompletedException;
 import com.aspiresys.employeemicroservice.service.EmployeeService;
