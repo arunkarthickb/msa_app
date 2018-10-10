@@ -1,0 +1,189 @@
+04-10-2018 12:23:2806 INFO service.impl.EmployeeServiceImpl:54 - INFO
+04-10-2018 12:23:2826 DEBUG service.impl.EmployeeServiceImpl:55 - DEBUG
+04-10-2018 12:23:2836 ERROR service.impl.EmployeeServiceImpl:56 - ERROR
+04-10-2018 12:25:91119 INFO service.impl.EmployeeServiceImpl:54 - INFO
+04-10-2018 12:25:91319 DEBUG service.impl.EmployeeServiceImpl:55 - DEBUG
+04-10-2018 12:25:91419 ERROR service.impl.EmployeeServiceImpl:56 - ERROR
+04-10-2018 19:13:27359 INFO service.impl.EmployeeServiceImpl:53 - INFO
+04-10-2018 19:13:28059 DEBUG service.impl.EmployeeServiceImpl:54 - DEBUG
+04-10-2018 19:13:28159 ERROR service.impl.EmployeeServiceImpl:55 - ERROR
+04-10-2018 19:20:4732 INFO service.impl.EmployeeServiceImpl:61 - All Employees retrieved successfully
+04-10-2018 19:20:5032 DEBUG service.impl.EmployeeServiceImpl:62 - Retrieving Employees
+04-10-2018 19:44:91610 INFO service.impl.EmployeeServiceImpl:61 - All Employees retrieved successfully
+04-10-2018 19:44:91810 DEBUG service.impl.EmployeeServiceImpl:62 - Retrieving Employees
+05-10-2018 11:52:91741 INFO service.impl.EmployeeServiceImpl:61 - All Employees retrieved successfully
+05-10-2018 11:52:91941 DEBUG service.impl.EmployeeServiceImpl:62 - Retrieving Employees
+05-10-2018 11:53:8625 INFO service.impl.EmployeeServiceImpl:42 - Employee saved successfully
+05-10-2018 11:53:8625 DEBUG service.impl.EmployeeServiceImpl:43 - Saving employee of id:23
+05-10-2018 16:35:18557 INFO service.impl.EmployeeServiceImpl:42 - Employee saved successfully
+05-10-2018 16:35:18857 DEBUG service.impl.EmployeeServiceImpl:43 - Saving employee of id:24
+06-10-2018 19:59:31258 INFO service.impl.EmployeeServiceImpl:61 - All Employees retrieved successfully
+06-10-2018 19:59:31558 DEBUG service.impl.EmployeeServiceImpl:62 - Retrieving Employees
+06-10-2018 20:00:75351 INFO service.impl.EmployeeServiceImpl:61 - All Employees retrieved successfully
+06-10-2018 20:00:75451 DEBUG service.impl.EmployeeServiceImpl:62 - Retrieving Employees
+06-10-2018 20:19:37345 INFO service.impl.EmployeeServiceImpl:61 - All Employees retrieved successfully
+06-10-2018 20:19:37345 DEBUG service.impl.EmployeeServiceImpl:62 - Retrieving Employees
+07-10-2018 16:34:96328 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+07-10-2018 16:34:96528 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:27
+08-10-2018 10:32:63930 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 10:32:66830 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 10:41:6976 ERROR service.impl.EmployeeServiceImpl:53 - Error on saving employee details
+08-10-2018 10:45:36618 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 10:45:36918 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:0
+08-10-2018 10:45:54448 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 10:45:54748 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:0
+08-10-2018 10:46:39445 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 10:46:39645 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:0
+08-10-2018 10:47:62130 ERROR service.impl.EmployeeServiceImpl:53 - Error on saving employee details
+08-10-2018 10:51:50545 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 10:51:50845 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:00:2210 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:00:2240 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:00:27711 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:00:28011 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:01:71356 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:01:71556 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:06:71810 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:06:72110 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:06:30552 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:06:30852 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:21:95449 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:21:95749 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:21:96149 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 11:21:96249 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 11:22:74150 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:22:74350 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:22:74750 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 11:22:74750 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 11:23:11827 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:23:12127 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:23:12527 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 11:23:12527 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 11:24:22226 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 11:24:22426 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 11:24:22926 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 11:24:22926 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 12:05:7443 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 12:05:7743 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 12:05:8343 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 12:05:8343 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 12:05:8843 INFO service.impl.EmployeeServiceImpl:83 - Employee detail retrieved successfully
+08-10-2018 12:05:8843 DEBUG service.impl.EmployeeServiceImpl:84 - Retrieving Employee
+08-10-2018 12:18:26347 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 12:18:26747 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 12:18:27347 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 12:18:27347 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 12:18:27547 ERROR service.impl.EmployeeServiceImpl:87 - Error on retrieving employee details
+08-10-2018 12:35:34852 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 12:35:35052 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 12:35:35852 INFO service.impl.EmployeeServiceImpl:48 - Employee saved successfully
+08-10-2018 12:35:35852 DEBUG service.impl.EmployeeServiceImpl:49 - Saving employee of id:2
+08-10-2018 12:35:36352 INFO service.impl.EmployeeServiceImpl:102 - Employee detail updated successfully
+08-10-2018 12:35:36352 DEBUG service.impl.EmployeeServiceImpl:103 - Updating Employee details
+08-10-2018 12:35:36652 ERROR service.impl.EmployeeServiceImpl:87 - Error on retrieving employee details
+08-10-2018 16:54:60357 DEBUG service.impl.EmployeeServiceImpl:135 - Retrieving employee with leave details
+08-10-2018 16:54:72257 DEBUG service.impl.EmployeeServiceImpl:141 - Making API call to retrieve leave details of the employee
+08-10-2018 17:00:70456 DEBUG service.impl.EmployeeServiceImpl:135 - Retrieving employee with leave details
+08-10-2018 17:00:83856 DEBUG service.impl.EmployeeServiceImpl:141 - Making API call to retrieve leave details of the employee
+08-10-2018 17:03:56133 DEBUG service.impl.EmployeeServiceImpl:135 - Retrieving employee with leave details
+08-10-2018 17:03:69633 DEBUG service.impl.EmployeeServiceImpl:141 - Making API call to retrieve leave details of the employee
+08-10-2018 17:11:2539 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:11:4169 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:13:48535 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:13:48935 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:14:2611 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:14:2641 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:14:79118 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:14:79518 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:15:6041 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:15:6061 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:16:46910 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:16:47110 ERROR service.impl.EmployeeServiceImpl:148 - Error on retrieving employee details
+08-10-2018 17:16:76445 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:16:76645 ERROR service.impl.EmployeeServiceImpl:148 - Error on retrieving employee details
+08-10-2018 17:17:74621 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:17:74921 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:17:18227 INFO service.impl.EmployeeServiceImpl:145 - Retrieving employee with LeaveDetails
+08-10-2018 17:17:50755 DEBUG service.impl.EmployeeServiceImpl:134 - Retrieving employee with leave details
+08-10-2018 17:17:50955 DEBUG service.impl.EmployeeServiceImpl:140 - Making API call to retrieve leave details of the employee
+08-10-2018 17:31:2197 DEBUG service.impl.EmployeeServiceImpl:135 - Retrieving employee with leave details
+08-10-2018 17:31:3447 DEBUG service.impl.EmployeeServiceImpl:141 - Making API call to retrieve leave details of the employee
+08-10-2018 17:36:16534 DEBUG service.impl.EmployeeServiceImpl:47 - Saving employee of id:2
+08-10-2018 17:36:16934 INFO service.impl.EmployeeServiceImpl:51 - Employee saved successfully
+08-10-2018 17:36:20634 DEBUG service.impl.EmployeeServiceImpl:47 - Saving employee of id:2
+08-10-2018 17:36:20634 INFO service.impl.EmployeeServiceImpl:51 - Employee saved successfully
+08-10-2018 17:36:20834 DEBUG service.impl.EmployeeServiceImpl:99 - Updating Employee details
+08-10-2018 17:36:21034 INFO service.impl.EmployeeServiceImpl:107 - Employee detail updated successfully
+08-10-2018 17:36:21334 DEBUG service.impl.EmployeeServiceImpl:82 - Retrieving Employee
+08-10-2018 17:36:21334 ERROR service.impl.EmployeeServiceImpl:90 - Error on retrieving employee details
+08-10-2018 17:43:68936 DEBUG service.impl.EmployeeServiceImpl:136 - Retrieving employee with leave details
+08-10-2018 17:43:83336 DEBUG service.impl.EmployeeServiceImpl:142 - Making API call to retrieve leave details of the employee
+08-10-2018 17:43:67637 DEBUG service.impl.EmployeeServiceImpl:157 - Retrieving employee with leave details
+08-10-2018 17:43:68137 DEBUG service.impl.EmployeeServiceImpl:163 - Making API call to retrieve leave details of the employee
+08-10-2018 17:43:68137 INFO service.impl.EmployeeServiceImpl:168 - Retrieving employee with LeaveDetails
+08-10-2018 17:46:81242 DEBUG service.impl.EmployeeServiceImpl:136 - Retrieving employee with leave details
+08-10-2018 17:46:81442 DEBUG service.impl.EmployeeServiceImpl:142 - Making API call to retrieve leave details of the employee
+08-10-2018 17:46:81443 DEBUG service.impl.EmployeeServiceImpl:157 - Retrieving employee with leave details
+08-10-2018 17:46:81255 DEBUG service.impl.EmployeeServiceImpl:163 - Making API call to retrieve leave details of the employee
+08-10-2018 17:46:57657 INFO service.impl.EmployeeServiceImpl:168 - Retrieving employee with LeaveDetails
+08-10-2018 17:48:1666 DEBUG service.impl.EmployeeServiceImpl:136 - Retrieving employee with leave details
+08-10-2018 17:48:1736 DEBUG service.impl.EmployeeServiceImpl:142 - Making API call to retrieve leave details of the employee
+08-10-2018 17:48:1697 DEBUG service.impl.EmployeeServiceImpl:157 - Retrieving employee with fall back leave details
+08-10-2018 17:48:1757 DEBUG service.impl.EmployeeServiceImpl:163 - Making API call to retrieve fall back leave details of the employee
+08-10-2018 17:48:1767 INFO service.impl.EmployeeServiceImpl:168 - Retrieving employee with fall back LeaveDetails
+08-10-2018 17:51:20053 DEBUG service.impl.EmployeeServiceImpl:136 - Retrieving employee with leave details
+08-10-2018 17:51:34453 DEBUG service.impl.EmployeeServiceImpl:142 - Making API call to retrieve leave details of the employee
+08-10-2018 18:01:90850 DEBUG service.impl.EmployeeServiceImpl:136 - Retrieving employee with leave details
+08-10-2018 18:01:2751 DEBUG service.impl.EmployeeServiceImpl:142 - Making API call to retrieve leave details of the employee
+08-10-2018 18:01:54351 DEBUG service.impl.EmployeeServiceImpl:157 - Retrieving employee with leave details
+08-10-2018 18:01:54651 DEBUG service.impl.EmployeeServiceImpl:163 - Making API call to retrieve leave details of the employee
+08-10-2018 18:01:54751 INFO service.impl.EmployeeServiceImpl:168 - Retrieving employee with LeaveDetails
+08-10-2018 18:07:74015 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:07:90515 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:08:1970 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:08:2020 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:08:4193 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:08:4233 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:08:4264 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:08:4284 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:08:21018 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:08:21418 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:08:66823 INFO service.impl.EmployeeServiceImpl:149 - Retrieving employee with LeaveDetails
+08-10-2018 18:08:50151 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:08:50851 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:08:31255 INFO service.impl.EmployeeServiceImpl:149 - Retrieving employee with LeaveDetails
+08-10-2018 18:10:99423 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:10:99723 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+08-10-2018 18:10:39835 INFO service.impl.EmployeeServiceImpl:149 - Retrieving employee with LeaveDetails
+08-10-2018 18:13:4791 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+08-10-2018 18:13:6111 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 09:53:15554 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+09-10-2018 09:53:16254 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 09:56:77640 DEBUG service.impl.EmployeeServiceImpl:66 - Retrieving Employee
+09-10-2018 09:56:91440 INFO service.impl.EmployeeServiceImpl:73 - All Employees retrieved successfully
+09-10-2018 09:56:69956 DEBUG service.impl.EmployeeServiceImpl:84 - Retrieving Employee
+09-10-2018 09:56:70856 INFO service.impl.EmployeeServiceImpl:89 - Employee detail retrieved successfully
+09-10-2018 09:57:57732 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+09-10-2018 09:57:58332 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 09:59:36931 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+09-10-2018 09:59:37331 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 09:59:21442 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+09-10-2018 09:59:21642 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 10:00:6709 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+09-10-2018 10:00:6729 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 10:00:7709 INFO service.impl.EmployeeServiceImpl:149 - Retrieving employee with LeaveDetails
+09-10-2018 10:21:32623 DEBUG service.impl.EmployeeServiceImpl:138 - Retrieving employee with leave details
+09-10-2018 10:21:32823 DEBUG service.impl.EmployeeServiceImpl:144 - Making API call to retrieve leave details of the employee
+09-10-2018 10:21:34223 INFO service.impl.EmployeeServiceImpl:149 - Retrieving employee with LeaveDetails
+09-10-2018 10:23:49439 DEBUG service.impl.EmployeeServiceImpl:120 - Deleting Employee details
+09-10-2018 10:23:58639 INFO service.impl.EmployeeServiceImpl:126 - Employee deleted successfully
+09-10-2018 10:23:46656 DEBUG service.impl.EmployeeServiceImpl:66 - Retrieving Employee
+09-10-2018 10:23:47356 INFO service.impl.EmployeeServiceImpl:73 - All Employees retrieved successfully
+09-10-2018 17:18:76951 DEBUG service.impl.EmployeeServiceImpl:194 - Retrieving employee with leave details
+09-10-2018 17:18:89551 DEBUG service.impl.EmployeeServiceImpl:200 - Making API call to retrieve leave details of the employee
+09-10-2018 17:22:8664 DEBUG service.impl.EmployeeServiceImpl:195 - Retrieving employee with leave details
+09-10-2018 17:22:9654 DEBUG service.impl.EmployeeServiceImpl:216 - Making API call to retrieve leave details of the employee
+09-10-2018 17:28:61052 DEBUG service.impl.EmployeeServiceImpl:217 - Making API call to retrieve leave details of the employee
+09-10-2018 17:29:82934 DEBUG service.impl.EmployeeServiceImpl:217 - Making API call to retrieve leave details of the employee
+09-10-2018 17:30:18720 DEBUG service.impl.EmployeeServiceImpl:195 - Retrieving employee with leave details
+09-10-2018 17:30:29420 DEBUG service.impl.EmployeeServiceImpl:217 - Making API call to retrieve leave details of the employee
