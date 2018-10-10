@@ -1,0 +1,20 @@
+08-10-2018 17:15:9597 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 2
+08-10-2018 17:15:188 ERROR service.impl.LeaveServiceImpl:88 - Cannot retrieve leavedetails
+08-10-2018 17:17:86325 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 8
+08-10-2018 17:17:99025 INFO service.impl.LeaveServiceImpl:91 - Leave details retrieved successfully
+08-10-2018 18:08:54418 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 8
+08-10-2018 18:08:61018 INFO service.impl.LeaveServiceImpl:91 - Leave details retrieved successfully
+08-10-2018 18:08:51751 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 8
+08-10-2018 18:08:52351 INFO service.impl.LeaveServiceImpl:91 - Leave details retrieved successfully
+08-10-2018 18:10:524 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 8
+08-10-2018 18:10:924 INFO service.impl.LeaveServiceImpl:91 - Leave details retrieved successfully
+09-10-2018 09:59:67631 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 4
+09-10-2018 09:59:72731 ERROR service.impl.LeaveServiceImpl:88 - Cannot retrieve leavedetails
+09-10-2018 09:59:22342 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 4
+09-10-2018 09:59:22642 ERROR service.impl.LeaveServiceImpl:88 - Cannot retrieve leavedetails
+09-10-2018 10:00:6789 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 4
+09-10-2018 10:00:7079 INFO service.impl.LeaveServiceImpl:91 - Leave details retrieved successfully
+09-10-2018 10:21:33523 DEBUG service.impl.LeaveServiceImpl:84 - Retrieving leave Details for EmployeeID: 4
+09-10-2018 10:21:33923 INFO service.impl.LeaveServiceImpl:91 - Leave details retrieved successfully
+09-10-2018 10:23:50639 DEBUG service.impl.LeaveServiceImpl:178 - Cancelling leave Details for EmployeeID: 4
+09-10-2018 10:23:54339 INFO service.impl.LeaveServiceImpl:183 - Leave cancelled successfully
